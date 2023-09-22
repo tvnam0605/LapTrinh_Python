@@ -1,0 +1,6 @@
+Trần Văn Nam    Trần Văn Nam    06/05/2003 3000 50000
+Trần Văn A    Trần Văn Tuấn    06/05/2003 3000 50000
+Trần Văn B    Shark    06/05/2003 200 50000
+Trần Văn E    Trần Văn Nam    06/05/2003 200 50000
+Trần Văn C    Trần Văn Nam    06/05/2003 3000 50000
+Trần Văn D    Trần Văn Nam    06/05/2003 3000 50000
